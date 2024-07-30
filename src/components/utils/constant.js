@@ -1,0 +1,2 @@
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"
+export const LOGO_URL = "https://seeklogo.com/images/F/food-chief-logo-64EB8ED1D9-seeklogo.com.png"
